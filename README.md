@@ -4,9 +4,9 @@
 Dockerzied ovirt.org site + ovirt documentation for offline use.
 
 # Image description #
-- Base image: `ruby:latest`.
-- The most current ovirt-site `master` branch is cloned.
-- Middleman is installed using bundle.
+- Base image: `ruby:latest`
+- The most current ovirt-site `master` branch is cloned
+- Middleman is installed using bundle
 
 # How to use this image #
 
